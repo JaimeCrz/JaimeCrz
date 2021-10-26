@@ -1,4 +1,4 @@
-### Hi there, I'm Jaime Cruz Hostalot.:octocat:
+### Hello, I'm Jaime Cruz Hostalot.:octocat:
 
 ## I'm a Full stack Developer, Computer-savvy, Technology Entusiast, Gamer & lover of Swedish Fika:doughnut:
 
