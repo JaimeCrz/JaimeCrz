@@ -1,6 +1,6 @@
 ### Hello, I'm Jaime Cruz Hostalot.:octocat:
 
-## I'm a Full stack Developer, Computer-savvy, Technology Entusiast, Gamer & lover of Swedish Fika:doughnut:
+## I'm a Full stack Developer, Computer-savvy, Technology Entusiast, Gamer & lover of Swedish Fika :doughnut:
 
 - 🥅 Goals: Contributing to Open Source projects.
 
@@ -43,7 +43,7 @@
 
 ### Spotify Playing 🎧
 
-Spotify list comming soon =)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=adeelar&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### :zap: GitHub Stats
 
