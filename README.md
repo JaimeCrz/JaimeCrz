@@ -2,9 +2,7 @@
 
 ## I'm a Full stack Developer, Computer-savvy, Technology Entusiast, Gamer & lover of Swedish Fika:doughnut:
 
-- :bowtie: Work: I’m currently seeking for job. Available to join immediately. 
 - 🥅 Goals: Contributing to Open Source projects.
-
 
 ### Connect with me 
 
